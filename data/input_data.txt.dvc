@@ -1,0 +1,5 @@
+outs:
+- md5: 479dea099d2167e98461875e3a27848d
+  size: 16
+  hash: md5
+  path: input_data.txt
